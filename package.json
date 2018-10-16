@@ -4,7 +4,7 @@
   "description": "",
   "main": "decorator.js",
   "scripts": {
-    "test": "mocha models/specs"
+    "test": "mocha specs"
   },
   "author": "",
   "license": "ISC",
